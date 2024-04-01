@@ -1,0 +1,6 @@
+- là 1 thư viện của node để fakeAPI hay MOCKAPI
+- các bước thực hiện
+    + cài json-server lên project đang làm hoặc toàn cục
+    + Tạo ra một file .json để tạo data
+    + Mở server để lắng nghe file .json đó bằng json-server
+    => Đã có API(URL)

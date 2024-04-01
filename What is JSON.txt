@@ -1,0 +1,4 @@
+- JSON(JavaScript Object Notation)
+- Là 1 định dạng dữ liệu(chuỗi)
+- JSON thể hiện được những dạng dữ liệu: Number, Boolean, Null, Array, Object
+- Encode/decode ~ Stringify/Parse

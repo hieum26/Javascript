@@ -1,5 +1,0 @@
-- fetch là 1 promise
-- fetch là 1 công cụ lấy data qua API 
--> return lại JSON/XML
-- BS: rest API là 1 quy chuẩn tạo ra API
-

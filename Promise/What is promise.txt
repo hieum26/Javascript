@@ -1,7 +1,0 @@
-- Là object của thư viện được tạo ra để xử lý bất đồng bộ và callback hell => trình bày tốt
-- Một object được tạo ra từ Promise sẽ nhận đối số là 1 excutor(function), function này nhận 2 đối số là resolve và reject
-- Promise có 3 giai đoạn:
-  + pending
-  + fullied
-  + rejected
-  
